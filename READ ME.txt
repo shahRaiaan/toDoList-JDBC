@@ -1,0 +1,4 @@
+this is a JDBC enabled dynamic
+web project which allows task
+to be listed and also view the list
+along with its current status
